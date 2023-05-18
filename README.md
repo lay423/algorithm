@@ -1,4 +1,6 @@
 # algorithm
+## 2023.05.18
+1. `MultiLevelMarketing` : 다단계 칫솔 판매
 
 ## 2023.05.17
 1. `RankingSearch` : 순위 계산
