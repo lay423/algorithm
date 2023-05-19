@@ -1,4 +1,8 @@
 # algorithm
+
+##2023.05.19
+1. `NumberGame` : 숫자게임
+
 ## 2023.05.18
 1. `MultiLevelMarketing` : 다단계 칫솔 판매
 
