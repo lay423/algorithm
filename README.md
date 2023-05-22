@@ -1,6 +1,10 @@
 # algorithm
 
-##2023.05.19
+## 2023.05.19
+1. `CheckDistance` : 거리두기 확인하기
+2. `GetDecimalNum` : k진수에서 소수 개수 구하기
+
+## 2023.05.19
 1. `NumberGame` : 숫자게임
 
 ## 2023.05.18
