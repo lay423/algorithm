@@ -1,6 +1,9 @@
 # algorithm
 
-## 2023.05.19
+## 2023.05.23
+1. `JewelShopping` : 보석 쇼핑
+
+## 2023.05.22
 1. `CheckDistance` : 거리두기 확인하기
 2. `GetDecimalNum` : k진수에서 소수 개수 구하기
 
