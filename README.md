@@ -1,5 +1,9 @@
 # algorithm
 
+## 2023.05.24
+1. `RecommendId` : 신규 아이디 추천
+2. `MaximizeFormula` : 수식 최대화
+
 ## 2023.05.23
 1. `JewelShopping` : 보석 쇼핑
 
