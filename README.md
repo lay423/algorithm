@@ -1,5 +1,8 @@
 # algorithm
 
+## 2023.05.25
+1. `FriendsFourBlock` : 프렌즈4블록
+
 ## 2023.05.24
 1. `RecommendId` : 신규 아이디 추천
 2. `MaximizeFormula` : 수식 최대화
