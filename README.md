@@ -1,5 +1,8 @@
 # algorithm
 
+## 2023.05.27
+1. `JewelShopping` : 보석 쇼핑 `review`
+
 ## 2023.05.26
 1. `JustThatSong` : 방금 그 곡
 
@@ -33,7 +36,7 @@
 1. `SortByFileName` : 파일명 정렬
 
 ## 2023.05.10
-1. `FurthestNode` : [그래프] 가장 먼 노드
+1. `FurthestNode` : [그래프] 가장 먼 노드 `review`
 
 ## 2023.03.04
 1. `FurthestNode` : [그래프] 가장 먼 노드
