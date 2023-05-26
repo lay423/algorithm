@@ -1,5 +1,8 @@
 # algorithm
 
+## 2023.05.26
+1. `JustThatSong` : 방금 그 곡
+
 ## 2023.05.25
 1. `FriendsFourBlock` : 프렌즈4블록
 
