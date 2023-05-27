@@ -1,5 +1,8 @@
 # algorithm
 
+## 2023.05.28
+1. `CheckDistance` : 거리두기 확인하기 `review`
+
 ## 2023.05.27
 1. `JewelShopping` : 보석 쇼핑 `review`
 
