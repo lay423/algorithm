@@ -1,5 +1,8 @@
 # algorithm
 
+## 2023.05.29
+1. `KeyPad` : 키패드 누르기
+
 ## 2023.05.28
 1. `CheckDistance` : 거리두기 확인하기 `review`
 
