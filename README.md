@@ -1,5 +1,8 @@
 # algorithm
 
+## 2023.06.01
+1. `JustThatSong` : 방금 그 곡 `review`
+
 ## 2023.05.31
 1. `KeyPad` : 키패드 누르기 `review`
 
