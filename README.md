@@ -1,5 +1,8 @@
 # algorithm
 
+## 2023.06.03
+1. `NewsClustering` : 뉴스 클러스터링 `review`
+
 ## 2023.06.02
 1. `Crane` : 크레인 인형뽑기
 2. `NewsClustering` : 뉴스 클러스터링
