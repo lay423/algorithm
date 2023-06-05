@@ -1,5 +1,9 @@
 # algorithm
 
+## 2023.06.05
+1. `FailureRate` : 실패율
+2. `PersonalityTypeTest` : 성격 유형 검사하기
+
 ## 2023.06.03
 1. `NewsClustering` : 뉴스 클러스터링 `review`
 
