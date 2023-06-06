@@ -1,4 +1,4 @@
-package algorithm.week5;
+package algorithm.week5.java0605;
 
 import java.util.ArrayList;
 import java.util.Collections;
