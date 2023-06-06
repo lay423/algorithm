@@ -1,5 +1,9 @@
 # algorithm
 
+
+## 2023.06.05
+1. `CndidateKey` : 후보키
+
 ## 2023.06.05
 1. `FailureRate` : 실패율
 2. `PersonalityTypeTest` : 성격 유형 검사하기
