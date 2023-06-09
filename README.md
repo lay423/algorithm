@@ -1,7 +1,9 @@
 # algorithm
 
+## 2023.06.07
+1. `StringCompression` : 문자열 압축
 
-## 2023.06.05
+## 2023.06.06
 1. `CndidateKey` : 후보키
 
 ## 2023.06.05
