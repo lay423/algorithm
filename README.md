@@ -1,10 +1,13 @@
 # algorithm
 
+## 2023.06.09
+1. `CandidateKey` : 후보키 `review`
+
 ## 2023.06.07
 1. `StringCompression` : 문자열 압축
 
 ## 2023.06.06
-1. `CndidateKey` : 후보키
+1. `CandidateKey` : 후보키
 
 ## 2023.06.05
 1. `FailureRate` : 실패율

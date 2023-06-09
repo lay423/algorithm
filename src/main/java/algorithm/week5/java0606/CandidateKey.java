@@ -9,6 +9,19 @@ public class CandidateKey {
 
   List<String> candi = new ArrayList<>();
 
+  public static void main(String[] args) {
+    CandidateKey candidateKey = new CandidateKey();
+    candidateKey.solution(new String[][]{
+        {"100","ryan","music","2"},
+        {"200","apeach","math","2"},
+        {"300","tube","computer","3"},
+        {"400","con","computer","4"},
+        {"500","muzi","music","3"},
+        {"600","apeach","music","2"}
+    });
+  }
+
+
   public int solution(String[][] relation) {
     int answer = 0;
 
@@ -24,6 +37,7 @@ public class CandidateKey {
     if (depth == end) {
       List<Integer> list = new ArrayList<>();
       String key = "";
+
       for (int i = 0; i < visited.length; i++) {
         if (visited[i]) {
           key += String.valueOf(i);
@@ -43,7 +57,7 @@ public class CandidateKey {
         } else {
           map.put(s, 0);
         }
-      }
+      }// for
 
       for (String s : candi) {
         int count = 0;
@@ -57,10 +71,11 @@ public class CandidateKey {
           return;
         }
       }
+
       candi.add(key);
 
       return;
-    }
+    } //if(depth == end)
 
     for (int i = start; i < visited.length; i++) {
       if (visited[i]) {
