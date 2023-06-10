@@ -1,5 +1,8 @@
 # algorithm
 
+## 2023.06.10
+1. `CandidateKey` : 후보키 `review`
+
 ## 2023.06.09
 1. `CandidateKey` : 후보키 `review`
 
