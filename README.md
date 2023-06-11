@@ -1,5 +1,8 @@
 # algorithm
 
+## 2023.06.11
+1. `FailureRate` : 실패율 `review` 
+
 ## 2023.06.10
 1. `CandidateKey` : 후보키 `review`
 
