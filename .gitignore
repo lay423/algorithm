@@ -46,3 +46,5 @@ bin/
 /.idea/misc.xml
 /.idea/gradle.xml
 /.idea/checkstyle-idea.xml
+/src/main/java/algorithm/Number.java
+/.idea/
