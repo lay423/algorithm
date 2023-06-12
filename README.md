@@ -4,7 +4,6 @@
 1. `PersonalInformation` : 개인정보 수집 유효기간
 2. `HikingCourse` : 등산코스 정하기
 
-***
 ## week5
 
 ### 2023.06.11
@@ -26,7 +25,6 @@
 1. `FailureRate` : 실패율
 2. `PersonalityTypeTest` : 성격 유형 검사하기
 
-***
 ## week4
 
 ### 2023.06.03
@@ -48,7 +46,6 @@
 ### 2023.05.29
 1. `KeyPad` : 키패드 누르기
 
-***
 ## week3
 
 ### 2023.05.28
@@ -74,7 +71,6 @@
 1. `CheckDistance` : 거리두기 확인하기
 2. `GetDecimalNum` : k진수에서 소수 개수 구하기
 
-***
 ## week2
 
 ### 2023.05.19
@@ -95,7 +91,6 @@
 ### 2023.05.10
 1. `FurthestNode` : [그래프] 가장 먼 노드 `review`
 
-***
 ## week1
 
 ### 2023.03.04
