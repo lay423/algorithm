@@ -6,6 +6,8 @@
 3. `NumberGame` : n진수 게임
 4. `UIslandTravel` : 무인도 여행
 5. `TravelRoute` : 여행 경로
+6. `LCM` :N개의 최소공배수
+7. `LargestNumBehind` : 뒤에 있는 큰 수 찾기
 
 ## week5
 
