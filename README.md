@@ -9,6 +9,7 @@
 6. `LCM` :N개의 최소공배수
 7. `LargestNumBehind` : 뒤에 있는 큰 수 찾기
 8. `UIslandTravel` : 무인도 여행 `review`
+9. `TravelRoute` : 여행 경로 `review`
 
 ## week5
 
