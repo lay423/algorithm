@@ -1,5 +1,10 @@
 # algorithm
 
+## week7
+
+#### 23.06.19
+- `BigNumber` : 큰 수 만들기
+
 ## week6
 1. `PersonalInformation` : 개인정보 수집 유효기간
 2. `HikingCourse` : 등산코스 정하기
