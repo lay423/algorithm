@@ -4,6 +4,9 @@
 
 #### 23.06.19
 - `BigNumber` : 큰 수 만들기
+#### 23.06.20
+- `VowelDictionary` : 모음 사전
+- `Camera` : 단속 카메라
 
 ## week6
 1. `PersonalInformation` : 개인정보 수집 유효기간
