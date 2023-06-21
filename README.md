@@ -2,11 +2,16 @@
 
 ## week7
 
-#### 23.06.19
-- `BigNumber` : 큰 수 만들기
+#### 23.06.21
+- `Fatigue` : 피로도
+- `OverTimeIndex` : 야근 지수
+
 #### 23.06.20
 - `VowelDictionary` : 모음 사전
 - `Camera` : 단속 카메라
+
+#### 23.06.19
+- `BigNumber` : 큰 수 만들기
 
 ## week6
 1. `PersonalInformation` : 개인정보 수집 유효기간
