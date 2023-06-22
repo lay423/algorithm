@@ -2,6 +2,10 @@
 
 ## week7
 
+
+#### 23.06.22
+- `SumOfSubsequence` : 연속된 부분 수열의 합
+- `SteppingStone` : 징검다리 건너기
 #### 23.06.21
 - `Fatigue` : 피로도
 - `OverTimeIndex` : 야근 지수
