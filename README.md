@@ -2,6 +2,9 @@
 
 ## week7
 
+#### 23.06.23
+- `Camera` : 단속 카메라 `review`
+- `Fatigue` : 피로도 `review`
 
 #### 23.06.22
 - `SumOfSubsequence` : 연속된 부분 수열의 합
