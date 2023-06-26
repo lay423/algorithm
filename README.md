@@ -1,5 +1,10 @@
 # algorithm
 
+
+## week8
+- `FindDecimals` : 소수 찾기
+- `DividePowerGrid` : 전력망을 둘로 나누기
+
 ## week7
 
 #### 23.06.24
