@@ -1,9 +1,11 @@
 # algorithm
 
 
-## week8
+## week8 완전탐색
 - `FindDecimals` : 소수 찾기
 - `DividePowerGrid` : 전력망을 둘로 나누기
+- `Carpet` : 카펫
+- `MenuRenewal` : 메뉴 리뉴얼
 
 ## week7
 
