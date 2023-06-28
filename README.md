@@ -6,6 +6,8 @@
 - `DividePowerGrid` : 전력망을 둘로 나누기
 - `Carpet` : 카펫
 - `MenuRenewal` : 메뉴 리뉴얼
+- `BAEKJOON 12919` `AtoB` : A 와 B 2 
+- `BAEKJOON 1027` `HighBuilding` : 고층 건물 
 
 ## week7
 
