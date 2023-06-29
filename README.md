@@ -8,6 +8,8 @@
 - `MenuRenewal` : 메뉴 리뉴얼
 - `BAEKJOON 12919` `AtoB` : A 와 B 2 
 - `BAEKJOON 1027` `HighBuilding` : 고층 건물 
+- `BAEKJOON 16637` `AddParentheses` : 괄호 추가하기
+- `BAEKJOON 17406` `ArrayRotation` : 배열 돌리기
 
 ## week7
 
