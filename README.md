@@ -1,6 +1,10 @@
 # algorithm
 
 
+## week9 dfs/bfs
+- `TargetNum` : 타겟넘버
+- `Network` : 네트워크
+
 ## week8 완전탐색
 - `FindDecimals` : 소수 찾기
 - `DividePowerGrid` : 전력망을 둘로 나누기
