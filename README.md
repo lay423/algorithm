@@ -4,6 +4,8 @@
 ## week9 dfs/bfs
 - `TargetNum` : 타겟넘버
 - `Network` : 네트워크
+- `GameMapShortestDistance` : 게임 맵 최단거리
+- `BAEKJOON 2206` `BreakWall` :벽 부수고 이동하기
 
 ## week8 완전탐색
 - `FindDecimals` : 소수 찾기
