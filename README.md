@@ -7,6 +7,11 @@
 - `GameMapShortestDistance` : 게임 맵 최단거리
 - `BAEKJOON 2206` `BreakWall` :벽 부수고 이동하기
 - `BAEKJOON 7576` `Tomato` : 토마토
+- `MemoryScore` : 추억점수
+- `Paint` : 덧칠하기
+- `DesktopCleanUp` : 바탕화면 정리
+- `RunningRace` : 달리기 경주
+- `WalkInThePark` : 공원산책
 
 ## week8 완전탐색
 - `FindDecimals` : 소수 찾기
