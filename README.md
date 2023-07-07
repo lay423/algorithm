@@ -12,6 +12,7 @@
 - `DesktopCleanUp` : 바탕화면 정리
 - `RunningRace` : 달리기 경주
 - `WalkInThePark` : 공원산책
+- `BAEKJOON 13913` `HideAndSeek` : 숨바꼭질4
 
 ## week8 완전탐색
 - `FindDecimals` : 소수 찾기
