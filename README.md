@@ -1,6 +1,9 @@
 # algorithm
 
 
+## week10 dp
+- `ExpressedAsN` : N으로 표현
+
 ## week9 dfs/bfs
 - `TargetNum` : 타겟넘버
 - `Network` : 네트워크
