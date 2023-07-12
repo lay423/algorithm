@@ -5,6 +5,8 @@
 - `ExpressedAsN` : N으로 표현
 - `BAEKJOON 15486` `Leave2` : 퇴사 2
 - `BAEKJOON 11722` `LongestDecreasingSubsequence` : 가장 긴 감소하는 부분 수열
+- `BAEKJOON 11726` `Tiling2xN` : 2xn 타일링
+- `BAEKJOON 2293` `Coin` : 동전 1
 
 ## week9 dfs/bfs
 - `TargetNum` : 타겟넘버
