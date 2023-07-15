@@ -9,6 +9,7 @@
 - `BAEKJOON 2293` `Coin` : 동전 1
 - `BAEKJOON 9252` `LCS2` : LCS 2
 - `BAEKJOON 1520` `DownHill` : 내리막길
+- `BAEKJOON 1260` `DFSnBFS` : DFS와 BFS
 
 ## week9 dfs/bfs
 - `TargetNum` : 타겟넘버
