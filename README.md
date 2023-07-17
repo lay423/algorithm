@@ -2,7 +2,7 @@
 
 
 ## week11 dfs/bfs
-- `BAEKJOON 15486` `MazeSearch` : 
+- `BAEKJOON 15486` `MazeSearch` : 미로탐색
 
 ## week10 dp
 - `ExpressedAsN` : N으로 표현
