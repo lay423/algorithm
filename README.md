@@ -1,6 +1,9 @@
 # algorithm
 
 
+## week11 dfs/bfs
+- `BAEKJOON 15486` `MazeSearch` : 
+
 ## week10 dp
 - `ExpressedAsN` : N으로 표현
 - `BAEKJOON 15486` `Leave2` : 퇴사 2
