@@ -3,6 +3,8 @@
 
 ## week11 dfs/bfs
 - `BAEKJOON 15486` `MazeSearch` : 미로탐색
+- `BAEKJOON 2644` `DegreeCalculation` : 촌수계산
+- `BAEKJOON 2468` `SafeArea` : 안전 영역
 
 ## week10 dp
 - `ExpressedAsN` : N으로 표현
