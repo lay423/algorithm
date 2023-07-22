@@ -7,6 +7,7 @@
 - `BAEKJOON 2468` `SafeArea` : 안전 영역
 - `BAEKJOON 18352` `CityDistance` : 특정 거리의 도시 찾기
 - `BAEKJOON 14226` `Emoticon` : 이모티콘
+- `PickItem` : 아이템 줍기
 
 ## week10 dp
 - `ExpressedAsN` : N으로 표현
