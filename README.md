@@ -1,5 +1,8 @@
 # algorithm
 
+## week12 dfs/bfs
+- `BAEKJOON 2667` `ApartNumbering` : 단지 번호 붙이기
+- `BAEKJOON 1697` `HideAndSeek` : 숨바꼭질
 
 ## week11 dfs/bfs
 - `BAEKJOON 15486` `MazeSearch` : 미로탐색
