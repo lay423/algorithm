@@ -3,6 +3,8 @@
 ## week12 dfs/bfs
 - `BAEKJOON 2667` `ApartNumbering` : 단지 번호 붙이기
 - `BAEKJOON 1697` `HideAndSeek` : 숨바꼭질
+- `BAEKJOON 1303` `Battle` : 전쟁 - 전투
+- `BAEKJOON 1987` `Alphbet` : 알파벳
 
 ## week11 dfs/bfs
 - `BAEKJOON 15486` `MazeSearch` : 미로탐색
