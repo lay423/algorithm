@@ -6,6 +6,7 @@
 - `BAEKJOON 1303` `Battle` : 전쟁 - 전투
 - `BAEKJOON 1987` `Alphbet` : 알파벳
 - `BAEKJOON 10971` `TouringSales` : 외판원 순회2
+- `BKJ3055` : 탈출
 
 ## week11 dfs/bfs
 - `BAEKJOON 15486` `MazeSearch` : 미로탐색
