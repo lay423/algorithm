@@ -21,14 +21,14 @@ public class TravelRoute {
     return answer;
   }
 
-  public void dfs(String start, String route, String[][] tickets, int cnt){
+  public void dfs(String current, String route, String[][] tickets, int cnt){
     if(cnt == tickets.length){
       allRoute.add(route);
       return;
     }
 
     for(int i=0; i<tickets.length; i++){
-      if(start.equals(tickets[i][0]) && !visited[i]){
+      if(current.equals(tickets[i][0]) && !visited[i]){
         visited[i] = true;
         dfs(tickets[i][1], route+" "+tickets[i][1], tickets, cnt+1);
         visited[i] = false;
