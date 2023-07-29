@@ -1,4 +1,4 @@
-package algorithm.week12.java0729;
+package algorithm.week12.java0728;
 
 public class Fatigue1 {
 
