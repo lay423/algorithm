@@ -1,4 +1,4 @@
-package algorithm.week13;
+package algorithm.week13.java0731;
 
 class RecommendId {
   public String solution(String new_id) {
