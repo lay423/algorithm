@@ -1,5 +1,9 @@
 # algorithm
 
+## week13 문자열 `review`
+- `BigNumber` : 큰 수 만들기 `풀이2`
+- `SumOfSubsequence` : 연속된 부분 수열의 합 `풀이2` 
+
 ## week12 dfs/bfs
 - `BAEKJOON 2667` `ApartNumbering` : 단지 번호 붙이기
 - `BAEKJOON 1697` `HideAndSeek` : 숨바꼭질
