@@ -1,5 +1,8 @@
 # algorithm
 
+## week14 HSAT
+- `PlayFairCipher` : [3회] 플레이페어 암호
+
 ## week13 문자열 `review`
 - `BigNumber` : 큰 수 만들기 `풀이2`
 - `SumOfSubsequence` : 연속된 부분 수열의 합 `풀이2` 
