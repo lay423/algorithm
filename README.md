@@ -4,6 +4,7 @@
 - `PlayFairCipher` : [3회] 플레이페어 암호
 - `Commute` : [6회] 출퇴근길
 - `SequencingCover` : [6회] 염기서열 커버
+- `GradeEvalutation` : [5회] 성적 평가
 
 ## week13 문자열 `review`
 - `BigNumber` : 큰 수 만들기 `풀이2`
