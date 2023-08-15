@@ -1,5 +1,10 @@
 # algorithm
 
+## week15 BruteForce
+- `BAEKJOON 15686` `ChickenDelivery` : 치킨 배달
+- `BAEKJOON 1759` `PWCreation` : 암호 만들기
+- `BAEKJOON 1107` `Remote` : 리모컨
+
 ## week14 HSAT
 - `PlayFairCipher` : [3회] 플레이페어 암호
 - `Commute` : [6회] 출퇴근길
