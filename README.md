@@ -4,6 +4,8 @@
 - `BAEKJOON 15686` `ChickenDelivery` : 치킨 배달
 - `BAEKJOON 1759` `PWCreation` : 암호 만들기
 - `BAEKJOON 1107` `Remote` : 리모컨
+- `BAEKJOON 10819` `MaxDifference` : 차이를 최대로
+- `BAEKJOON 14500` `Tetromino` : 테트로미노
 
 ## week14 HSAT
 - `PlayFairCipher` : [3회] 플레이페어 암호
