@@ -6,6 +6,7 @@
 - `BAEKJOON 1107` `Remote` : 리모컨
 - `BAEKJOON 10819` `MaxDifference` : 차이를 최대로
 - `BAEKJOON 14500` `Tetromino` : 테트로미노
+- `BAEKJOON 1062` `Teaching` : 가르침
 
 ## week14 HSAT
 - `PlayFairCipher` : [3회] 플레이페어 암호
