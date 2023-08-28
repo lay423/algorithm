@@ -1,5 +1,9 @@
 # algorithm
 
+## week17 dp
+- `BAEKJOON 2294` `Coin2` : 동전 2
+- `BAEKJOON 11066` `MergeFile` : 파일 합치기
+
 ## week16 dfs/bfs `reivew`
 
 ## week15 BruteForce
