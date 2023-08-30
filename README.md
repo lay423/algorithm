@@ -5,6 +5,8 @@
 - `BAEKJOON 11066` `MergeFile` : 파일 합치기
 - `BAEKJOON 2133` `TileFill` : 타일 채우기
 - `BAEKJOON 11049` `MatrixMultiplicationOrder` : 행렬 곱셈 순서
+- `BAEKJOON 2225` `SumDecomposition` : 합분해
+- `BAEKJOON 1965` `PutInBox` : 상자넣기
 
 ## week16 dfs/bfs `reivew`
 
