@@ -2,6 +2,8 @@
 
 ## week18
 - `BAEKJOON 14503` `Pill` : 알약
+- `BAEKJOON 2240` `PlumTree` : 자두나무
+- `BAEKJOON 7682` `TicTacToe` : 틱택토
 
 ## week17 dp
 - `BAEKJOON 2294` `Coin2` : 동전 2
