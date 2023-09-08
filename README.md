@@ -6,6 +6,8 @@
 - `BAEKJOON 7682` `TicTacToe` : 틱택토
 - `BAEKJOON 12026` `BOJDistance` : BOJ거리
 - `BAEKJOON 16234` `PopulationMovement` : BOJ거리
+- `BAEKJOON 5557` `FirstGrade` : 1학년
+- `BAEKJOON 8911` `Turtle` : 거북이
 
 ## week17 dp
 - `BAEKJOON 2294` `Coin2` : 동전 2
