@@ -1,5 +1,9 @@
 # algorithm
 
+## week19
+- `BAEKJOON 23294` 웹 브라우저
+- `삼성 SW 역량테스트` 2차원 테트리스
+
 ## week18
 - `BAEKJOON 14503` `Pill` : 알약
 - `BAEKJOON 2240` `PlumTree` : 자두나무
