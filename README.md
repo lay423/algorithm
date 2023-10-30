@@ -2,6 +2,7 @@
 
 ## week25
 - `StoneGame` : 돌게임 `review`
+- `PutInBox` : 상자넣기 `review`
 
 ## week23
 - `BJ3190` : 뱀
