@@ -1,5 +1,8 @@
 # algorithm
 
+## week25
+- `StoneGame` : 돌게임 `review`
+
 ## week23
 - `BJ3190` : 뱀
 
