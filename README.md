@@ -1,8 +1,9 @@
 # algorithm
 
-## week25
+## week25 dp
 - `StoneGame` : 돌게임 `review`
 - `PutInBox` : 상자넣기 `review`
+- `SumDecomposition` : 합분해 `review`
 
 ## week23
 - `BJ3190` : 뱀
