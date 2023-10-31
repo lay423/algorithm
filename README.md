@@ -4,6 +4,8 @@
 - `StoneGame` : 돌게임 `review`
 - `PutInBox` : 상자넣기 `review`
 - `SumDecomposition` : 합분해 `review`
+- `BOJDistance` : BOJ거리 `review`
+- `PlumTree` : 자두나무 `review`
 
 ## week23
 - `BJ3190` : 뱀
