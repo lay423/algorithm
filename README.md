@@ -6,7 +6,7 @@
 - `SumDecomposition` : 합분해 `review`
 - `BOJDistance` : BOJ거리 `review`
 - `PlumTree` : 자두나무 `review`
-- `java1103` : 수퍼바이러스
+- `java1103` : 수퍼바이러스, 강의실 배정
 
 ## week23
 - `BJ3190` : 뱀
