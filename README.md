@@ -1,5 +1,8 @@
 # algorithm
 
+## week26
+- `java1106` : 이동하기
+
 ## week25 dp
 - `StoneGame` : 돌게임 `review`
 - `PutInBox` : 상자넣기 `review`
