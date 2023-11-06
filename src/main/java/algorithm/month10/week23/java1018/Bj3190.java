@@ -1,4 +1,4 @@
-package algorithm.week23.java1018;
+package algorithm.month10.week23.java1018;
 
 import java.util.*;
 import java.io.*;

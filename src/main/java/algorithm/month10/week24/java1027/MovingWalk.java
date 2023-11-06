@@ -1,4 +1,4 @@
-package algorithm.week24.java1027;
+package algorithm.month10.week24.java1027;
 
 import java.util.Scanner;
 

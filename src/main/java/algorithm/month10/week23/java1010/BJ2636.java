@@ -1,4 +1,4 @@
-package algorithm.week23.java1010;
+package algorithm.month10.week23.java1010;
 
 import java.io.BufferedReader;
 import java.io.IOException;

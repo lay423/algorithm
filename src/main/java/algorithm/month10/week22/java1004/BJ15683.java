@@ -1,4 +1,4 @@
-package algorithm.week22.java1004;
+package algorithm.month10.week22.java1004;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
