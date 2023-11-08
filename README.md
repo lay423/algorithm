@@ -2,7 +2,7 @@
 
 ## week26
 - `java1106` : 이동하기
-- `java1108` : 우물안 개구리
+- `java1108` : 우물안 개구리, 등굣길
 
 ## week25 dp
 - `StoneGame` : 돌게임 `review`
