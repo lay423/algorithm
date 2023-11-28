@@ -1,5 +1,9 @@
 # algorithm
 
+## week29
+- `java1127` : AC, 미네랄
+- `java1128` : 톱니바퀴
+
 ## week28
 - `java1121` : 마인크래프트
 
