@@ -1,5 +1,8 @@
 # algorithm
 
+## week30
+- `java1205` : 시소 짝궁
+
 ## week29
 - `java1127` : AC, 미네랄
 - `java1128` : 톱니바퀴, 크게 만들기
