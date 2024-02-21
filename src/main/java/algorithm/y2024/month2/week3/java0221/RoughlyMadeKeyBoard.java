@@ -10,7 +10,7 @@ class RoughlyMadeKeyBoard {
 
         for(String key : keymap){
             for(int i=0; i<key.length(); i++){
-                map.put((char)key.charAt(i),
+                map.put(key.charAt(i),
                         Math.min(map.getOrDefault(key.charAt(i), Integer.MAX_VALUE), i+1));
             }
         }
