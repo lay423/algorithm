@@ -1,5 +1,7 @@
-package algorithm.y2024.month2.week3.java0221;
-import java.util.*;
+package algorithm.y2024.month2.week3.java0222;
+
+import java.util.ArrayList;
+import java.util.List;
 
 class SmallSubstring {
     public int solution(String t, String p) {
