@@ -28,22 +28,19 @@ class VisitLength {
     private static String idxToString(int[][] nums){
         StringBuilder sb = new StringBuilder();
 
-        Arrays.sort(nums, new Comparator<int[]>() {
-            @Override
-            public int compare(int[] o1, int[] o2) {
-                if(o1[0] < o2[0])
+        Arrays.sort(nums, (o1, o2) -> {
+            if(o1[0] < o2[0])
+                return 50;
+            else if (o1[0] > o2[0]) {
+                return -50;
+            }else {
+                if(o1[1] < o2[1])
                     return 50;
-                else if (o1[0] > o2[0]) {
+                else if (o1[1] > o2[1]) {
                     return -50;
-                }else {
-                    if(o1[1] < o2[1])
-                        return 50;
-                    else if (o1[1] > o2[1]) {
-                        return -50;
-                    }
                 }
-                return 0;
             }
+            return 0;
         });
 
 
