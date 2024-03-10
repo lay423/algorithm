@@ -1,4 +1,4 @@
-package algorithm.y2024.month3.week6.java3010;
+package algorithm.y2024.month3.week6.java0310;
 
 import java.util.ArrayList;
 import java.util.List;
