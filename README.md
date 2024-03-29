@@ -1,5 +1,8 @@
 # algorithm
 
+## week9
+- `java0329` : 조이스틱
+
 ## week8
 - `java0325` : 혼자서 하는 틱택토
 
