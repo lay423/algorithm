@@ -28,3 +28,12 @@ Arrays.sort(strings, (o1, o2) -> {
         }
 
         LocalDate.of(2016, a, b).getDayOfWeek().toString().substring(0,3);
+
+Queue
+    삽입
+        add() -> queue에 여유공간없으면 exception 발생
+        offer()
+    제거
+        poll()
+        remove()
+        clear()
