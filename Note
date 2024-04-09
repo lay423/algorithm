@@ -23,11 +23,13 @@ Arrays.sort(strings, (o1, o2) -> {
             return 0;
         });
 
+Map
         for (Map.Entry<String, String> entry : map.entrySet()) {
         	System.out.println("[key]:" + entry.getKey() + ", [value]:" + entry.getValue());
         }
 
-        LocalDate.of(2016, a, b).getDayOfWeek().toString().substring(0,3);
+LocalDate
+    LocalDate.of(2016, a, b).getDayOfWeek().toString().substring(0,3);
 
 Queue
     삽입
