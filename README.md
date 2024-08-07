@@ -1,7 +1,7 @@
 # algorithm
 
 ## week15
-- Tren del Fin del Mundo, 멀리뛰기
+- Tren del Fin del Mundo, 멀리뛰기, 최솟값 만들기
 
 ## week12
 - `java0415` : 섬 연결하기
