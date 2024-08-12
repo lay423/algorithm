@@ -1,6 +1,6 @@
 package algorithm.y2024.month8.week15.java0811;
 
-class Solution {
+class N2TrimArray {
     public long[] solution(int n, long left, long right) {
         long[] answer = new long[(int)(right-left+1)];
         long lIdx1 = left/n;
