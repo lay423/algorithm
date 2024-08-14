@@ -1,7 +1,7 @@
 # algorithm
 
 ## week16
-- `java0814` : 마지막 두 원소, 배열원소 제거하기
+- `java0814` : 마지막 두 원소, 배열원소 제거하기, 공백으로 구분하기2
 
 ## week15
 - `java0701` :Tren del Fin del Mundo, 멀리뛰기
