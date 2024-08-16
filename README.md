@@ -2,6 +2,7 @@
 
 ## week16
 - `java0814` : 마지막 두 원소, 배열원소 제거하기, 공백으로 구분하기2
+- `java0816` : x 사이의 개수(split("x", -1))
 
 ## week15
 - `java0701` :Tren del Fin del Mundo, 멀리뛰기
