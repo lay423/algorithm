@@ -4,6 +4,7 @@
 - `java0814` : 마지막 두 원소, 배열원소 제거하기, 공백으로 구분하기2
 - `java0816` : x 사이의 개수(split("x", -1))
 - `java0819` : 배열 회전시키기, 문자열 정렬하기(toCharArray)
+- `java0820` : 문자열 잘라서 정렬하기(list.toArray())
 
 ## week15
 - `java0701` :Tren del Fin del Mundo, 멀리뛰기
