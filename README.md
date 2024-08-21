@@ -5,7 +5,7 @@
 - `java0816` : x 사이의 개수(split("x", -1))
 - `java0819` : 배열 회전시키기, 문자열 정렬하기(toCharArray)
 - `java0820` : 문자열 잘라서 정렬하기(list.toArray()), 모스부호(1)
-- `java0821` : 소인수분해(Iterator, Set)
+- `java0821` : 소인수분해(Iterator, Set), 문자 갯수 세기, 두 수의 합(BigInteger)
 
 ## week15ㅋ
 - `java0701` :Tren del Fin del Mundo, 멀리뛰기
