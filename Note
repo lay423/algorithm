@@ -42,3 +42,6 @@ Queue
 
 Array To List
 List<Integer> list = new ArrayList<>(Arrays.asList(arr);
+
+List to Array
+list.stream().mapToInt(x->x).toArray();
