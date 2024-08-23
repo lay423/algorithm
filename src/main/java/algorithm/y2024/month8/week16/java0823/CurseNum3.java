@@ -1,6 +1,6 @@
 package algorithm.y2024.month8.week16.java0823;
 
-class DeterminingNum {
+class CurseNum3 {
     public int solution(int n) {
         int answer = 0;
         for(int i=1; i<=n; i++){
