@@ -7,7 +7,7 @@
 - `java0820` : 문자열 잘라서 정렬하기(list.toArray()), 모스부호(1)
 - `java0821` : 소인수분해(Iterator, Set), 문자 갯수 세기, 두 수의 합(BigInteger)
 - `java0822` : 무작위 k개의 수 뽑기(listToArray), 캐릭터의 좌표, 전국 대회 선발 고사, 등수 매기기
-- `java0823` : 저주의 숫자 3, 유한소수 판별하기, OX 퀴즈
+- `java0823` : 저주의 숫자 3, 유한소수 판별하기(GCD), OX 퀴즈
 
 ## week15ㅋ
 - `java0701` :Tren del Fin del Mundo, 멀리뛰기

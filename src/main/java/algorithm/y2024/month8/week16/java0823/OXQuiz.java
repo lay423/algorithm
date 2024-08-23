@@ -1,6 +1,6 @@
 package algorithm.y2024.month8.week16.java0823;
 
-class OXQuizd {
+class OXQuiz {
     public String[] solution(String[] quiz) {
         String[] result = new String[quiz.length];
         for(int i=0; i<quiz.length; i++){
